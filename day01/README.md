@@ -9,6 +9,10 @@ On this first day, I aimed to review some important topics in *Java*, focusing o
 * *Condition:* I went over logical operators again, though I’m already familiar with them.
 * *Array and Array02:* Not yet completed, but I started studying arrays, as they are one of the main data structures in Java.
 
-### Project 
+### Project - `Calculator.java`
 
-* *Note:* This project was for learning purposes, meant to help me consolidate and get more familiar with Java. It's nothing extraordinary.
+* *Note:* This project was for learning purposes, meant to help me consolidate and become more familiar with Java. It's nothing extraordinary.
+
+#### About
+
+A simple project consisting of a calculator that performs four basic mathematical operations. The code is not heavily modularized—it's a compact and straightforward implementation.
