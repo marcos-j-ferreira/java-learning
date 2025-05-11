@@ -8,7 +8,18 @@ interface Produtos{
 }
 
 
-class Comida implements Produto{
+class Comida implements Produtos{
+
+    private int cod, value;
+    private String nome, typee;
+
+    Comida(int cod, int value, String nome, String typee){
+        this.cod = cod;
+        this.value = value;
+        this.nome =nome;
+        this.typee = typee;
+
+    }
 
     public void codigo(){
         System.out.println("Hello, World");
