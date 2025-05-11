@@ -43,7 +43,12 @@ class Comida implements Produtos{
 public class Cadastro {
 
     public static void main(String[] args){
-        System.out.println("Hello, World");
+        
+        Produtos p1 = new Comida(8263, 22, "arroz", "Comida");
+        p1.nome();
+        p1.value();
+        p1.typee();
+        p1.codigo();
     }
     
 }
