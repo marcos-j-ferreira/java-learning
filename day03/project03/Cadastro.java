@@ -16,27 +16,27 @@ class Comida implements Produtos{
     Comida(int cod, int value, String nome, String typee){
         this.cod = cod;
         this.value = value;
-        this.nome =nome;
+        this.nome = nome;
         this.typee = typee;
 
     }
 
     public void codigo(){
-        System.out.println("Hello, World");
+        System.out.println("Seu códgio é: "+cod);
     }
 
     public void nome(){
-        System.out.println("Hello, World");
+        System.out.println("O nome do seu produto é: "+ nome);
 
         
     }
     public void typee(){
-        System.out.println("Hello, World");
+        System.out.println("Seu produto pertence ao typo: "+ typee);
 
         
     }
     public void value(){
-        System.out.println("Hello, World");
+        System.out.println("Seu produto custa: "+ value);
     }
 
 }
