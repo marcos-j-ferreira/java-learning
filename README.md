@@ -16,3 +16,12 @@ Focused on reviewing the basics of Java, including syntax, input handling with `
 Expanded knowledge in Java by reviewing access modifiers (`public`, `private`) and scopes. Studied string handling, function structure, and had a solid introduction to classes and objects—the core of Java. Applied concepts in a basic login system project (`SimpleLogin.java`) using default credentials to validate user input.
 
 ---
+
+---
+
+### 📘 Day 3 Summary
+
+Learned core object-oriented programming concepts in Java: **abstract classes**, **encapsulation**, **inheritance**, **interfaces**, and **polymorphism**. Created examples and a small project (`Cadastro`) to apply these concepts. The day focused on understanding how Java structures code around classes and how to organize reusable, maintainable logic.
+
+---
+
